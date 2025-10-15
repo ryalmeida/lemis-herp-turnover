@@ -8,7 +8,10 @@
 #'REQUIRED PACKAGES: tidyverse
 #'
 #'DESCRIPTION: This script contains the code used to clean data for 
-#'analyses outlined in Chan et al. (2025).
+#'analyses outlined in Chan et al. (2025) The corrected LEMIS data 
+#'(lemisDataCorrected_2023-11-11.csv) can be downloaded from the 
+#'following link: 
+#'https://figshare.com/s/960af99373aba13791be
 
 #load tidyverse package
 library(tidyverse)
