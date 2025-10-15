@@ -15,7 +15,7 @@
 library(tidyverse)
 library(vegan)
 
-#read LEMIS herps data from LEMIS_herps_dataClean.csv
+#read LEMIS herps data from LEMIS_herps_dataClean.R
 herps <- read.csv("herpsLEMIS.csv")
 
 ### Calculate residence times and species accumulation curves------
